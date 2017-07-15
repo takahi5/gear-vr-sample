@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/RemoteController.unity
+    guid: f72e1406119f3497f936371cffcc9c3f
+  - enabled: 1
     path: Assets/GazeInput.unity
     guid: c87519f41c17e492ca89761efa93bc21
   - enabled: 0
